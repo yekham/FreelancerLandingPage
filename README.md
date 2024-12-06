@@ -1,2 +1,2 @@
-Link of the website: https://startbootstrap.com/previews/freelancer
+Link to the website: https://startbootstrap.com/previews/freelancer
 
